@@ -1,7 +1,7 @@
 
 # Gene-List Network Enrichment Analysis
 
-Gene-List Network Enrichment Analysis (GeLiNEA) takes a gene list (e.g., from a screening experiment), a gene set (from a corpus of curated gene sets, e.g., MSigDB29), and a protein-protein association network (e.g., STRING) and evaluates the significance of connections between the gene list and the gene set in the network under a null model of degree-preserving random gene lists.
+Gene-List Network Enrichment Analysis (GeLiNEA) takes a gene list (e.g., from a screening experiment), a gene set (from a corpus of curated gene sets, e.g., MSigDB), and a protein-protein association network (e.g., STRING) and evaluates the significance of connections between the gene list and the gene set in the network under a null model of degree-preserving random gene lists.
 
 ## Running GeLiNEA
 
