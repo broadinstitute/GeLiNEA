@@ -23,6 +23,6 @@ Use [sbt (https://www.scala-sbt.org/)](https://www.scala-sbt.org/) to run GeLiNE
 - you can use `-O <results_file>` to overwite an existing results file
 - sugested bin size: 50
 
-## Citing GSEA
+## Citing GeLiNEA
 
 To cite your use of the GeLiNEA please reference **Yilong Zou _et al_.: Plasticity of polyunsaturated ether phospholipids promotes ferroptosis susceptibility and evasion.**
