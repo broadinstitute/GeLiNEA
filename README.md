@@ -25,4 +25,4 @@ Use [sbt (https://www.scala-sbt.org/)](https://www.scala-sbt.org/) to run GeLiNE
 
 ## Citing GeLiNEA
 
-To cite your use of the GeLiNEA please reference **Yilong Zou _et al_.: Plasticity of polyunsaturated ether phospholipids promotes ferroptosis susceptibility and evasion.**
+To cite your use of the GeLiNEA please reference **Yilong Zou _et al_.: [Plasticity of polyunsaturated ether phospholipids promotes ferroptosis susceptibility and evasion.](https://www.nature.com/articles/s41586-020-2732-8)  _Nature (2020)_.**
